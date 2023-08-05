@@ -1,0 +1,1 @@
+﻿I have submitted the homework in jupyter notebook and there is nothing needed to run the code as i have used only sklearn and all the statements for the numericals are attached in pdf pages have the steps written and explained it clearly.
